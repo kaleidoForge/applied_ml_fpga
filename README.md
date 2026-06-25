@@ -1,6 +1,10 @@
-# Applied ML and FPGA
+# Applied ML for FPGA
 
-# Getting Started
+Welcome to the **Applied Machine Learning for FPGA** repository. This project contains practical Jupyter notebooks, datasets, and code examples designed to demonstrate edge AI deployment workflows. 
+
+The labs provided here focus on hardware-aware model optimization techniques—such as pruning, quantization, and knowledge distillation, specifically tailored for FPGA environments. This is a hands-on companion designed for educational purposes, allowing developers and researchers to execute complete end-to-end edge ML pipelines.
+
+## Getting Started
 
 ## 1. Clone the Repository
 
@@ -21,7 +25,7 @@ This will download all the project files, including the environment configuratio
 
 >**NOTE:** Do not run these steps if you are using the virtual machine!
 
-TThis step creates and activates the *Conda* environment required for the projects. Before running the commands, make sure you are in the root folder of the repository. In the terminal, execute the following lines (the environment file is located at `environmentPython/environment.yml`):
+This step creates and activates the *Conda* environment required for the projects. Before running the commands, make sure you are in the root folder of the repository. In the terminal, execute the following lines (the environment file is located at `environmentPython/environment.yml`):
 
 ```bash
 # Create the environment
